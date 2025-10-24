@@ -41,5 +41,3 @@ CompTIA Security+ certified specialist who hardens networks, builds VPN architec
 Sponsor, contributor & attendee of regional security meet‑ups (2023‑2025); writer for *Redacted Magazine* & *The New Oil*; moderator of Mastodon & Pixelfed communities.
 
 ---
-
-Happy to connect on any of the platforms above! 🚀
