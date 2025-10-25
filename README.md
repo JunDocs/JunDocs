@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Jun
 ## 🎯 Focus
-CompTIA Security+ certified specialist who hardens networks, builds VPN architectures, and automates threat‑modeling pipelines.
+CompTIA Security+ certified engineer specializing in building secure, resilient networks and simplifying risk management.
 
 ## 🔧 Core Skills
 - **Network Security:** IPSec/TLS VPNs, PKI, BGP, VLANs, Cisco/Juniper routing  
