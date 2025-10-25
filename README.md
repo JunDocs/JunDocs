@@ -11,7 +11,7 @@ CompTIA Security+ certified engineer specializing in building secure, resilient 
 
 ## 🚀 Selected Projects
 - **Travel‑Privacy Toolkit** – Messenger, payment & DNS scripts for the Philippines, South Korea & Japan (blocked ≈ 24 % of DNS queries; 8,805 blocked/36,708 total).  
-- **Mastodon Instance – jeju.social** – Invite-only server on a lightweight 4 GB Linode, consistently under 20 % CPU, near-zero swap, and fast encrypted (TLS 1.3) connections.
+- **Mastodon Instance** – **jeju.social** – Invite-only server on a lightweight 4 GB Linode, consistently under 20 % CPU, near-zero swap, and fast encrypted (TLS 1.3) connections.
 - **Secure‑Comm Trainer** – Open‑source slides & labs teaching secure communications to non‑technical staff.
 
 ## 📜 Certifications & Affiliations
