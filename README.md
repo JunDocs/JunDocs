@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Jun
 ## 🎯 Focus
-CompTIA Security+ certified engineer specializing in building secure, resilient networks and simplifying risk management.
+CompTIA Security+ certified engineer specializing in building secure networks and simplifying risk management.
 
 ## 🔧 Core Skills
 - **Network Security:** IPSec/TLS VPNs, PKI, BGP, VLANs, Cisco/Juniper routing  
@@ -22,6 +22,6 @@ CompTIA Security+ certified engineer specializing in building secure, resilient 
 - Electronic Frontier Foundation – Guardian Member & donor.
 
 ## 🌐 Community
-Sponsor, contributor & attendee of regional security meet‑ups (2023‑2025); writer for *Redacted Magazine* & *The New Oil*; moderator of Mastodon & Pixelfed communities.
+Sponsor & attendee of regional security meet‑ups (2023‑2025); contributor for *Redacted Magazine* & *The New Oil*; moderator of Mastodon & Pixelfed communities.
 
 ---
