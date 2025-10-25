@@ -10,8 +10,8 @@ CompTIA Security+ certified engineer specializing in building secure, resilient 
 - **Privacy Engineering:** DNS filtering (NextDNS), secure messaging, E2EE, Tor/VPN  
 
 ## 🚀 Selected Projects
-- **Travel‑Privacy Toolkit** – Messenger, payment & DNS scripts for the Philippines, South Korea & Japan (≈ 24 % DNS blocked).  
-- **Mastodon Instance – jeju.social** – Invite‑only server with TLS 1.3, HSTS preload; public API for developers.  
+- **Travel‑Privacy Toolkit** – Messenger, payment & DNS scripts for the Philippines, South Korea & Japan (blocked ≈ 24 % of DNS queries; 8,805 blocked/36,708 total).  
+- **Mastodon Instance – jeju.social** – Invite-only server on a lightweight 4 GB Linode, consistently under 20 % CPU, near-zero swap, and fast encrypted (TLS 1.3) connections.
 - **Secure‑Comm Trainer** – Open‑source slides & labs teaching secure communications to non‑technical staff.
 
 ## 📜 Certifications & Affiliations
