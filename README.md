@@ -4,8 +4,8 @@
 CompTIA Security+ certified engineer specializing in secure network design and practical risk management.
 
 ## 🔧 Core Skills
+- **Network Security:** VPNs (IPSec/TLS), PKI, BGP, VLANs, Cisco/Juniper routing
 - **Full Stack Web Development:** Deploying, securing, and maintaining open-source social platforms (front end, back end, infrastructure)
-- **Network Security:** VPNs (IPSec/TLS), PKI, BGP, VLANs, Cisco/Juniper routing  
 - **Penetration Testing:** PTES methodology, exploit development, threat modeling  
 - **Automation:** Scripting with PowerShell, Bash, and Python
 - **Cloud & DevOps:** Ubuntu 22.04, cloud VPS, Docker, CI/CD pipelines, self-hosted web apps, DNS management, reverse proxies  
