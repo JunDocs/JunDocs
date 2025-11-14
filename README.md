@@ -10,7 +10,7 @@ CompTIA Security+ certified engineer specializing in building secure networks an
 - **Privacy Engineering:** DNS filtering (NextDNS), secure messaging, E2EE, Tor/VPN  
 
 ## 🚀 Selected Projects
-- **Travel‑Privacy Toolkit** – Messenger, payment & DNS scripts for the Philippines, South Korea & Japan (blocked ≈ 24 % of DNS queries; 8,805 blocked/36,708 total).  
+- **Travel‑Privacy Toolkit** – Messenger, payment & DNS scripts for the Philippines, South Korea & Japan (blocked ≈ 28.74 % of DNS queries; 29,912 blocked/104,125 total).  
 - **Twitter-like Mastodon Instance** – **jeju.social** – Invite-only server on a lightweight cloud platform, consistently under 20 % CPU, near-zero swap, and fast encrypted (TLS 1.3) connections, managed with Cloudron.
 - **Instagram-like Pixelfed Instance** – **shisa.me** – Invite-only server on a lightweight cloud platform, optimized for low resource usage and fast encrypted (TLS 1.3) connections, managed with Yunohost.
 - **Secure‑Comm Trainer** – Open‑source slides & labs teaching secure communications to non‑technical staff.
