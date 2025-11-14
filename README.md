@@ -4,11 +4,13 @@
 CompTIA Security+ certified engineer specializing in secure network design and practical risk management.
 
 ## 🔧 Core Skills
+- **Full Stack Web Development:** Deploying, securing, and maintaining open-source social platforms (front end, back end, infrastructure)
 - **Network Security:** VPNs (IPSec/TLS), PKI, BGP, VLANs, Cisco/Juniper routing  
 - **Penetration Testing:** PTES methodology, exploit development, threat modeling  
-- **Automation:** PowerShell, Bash, Python (requests, pandas)  
+- **Automation:** Scripting with PowerShell, Bash, and Python
 - **Cloud & DevOps:** Ubuntu 22.04, cloud VPS, Docker, CI/CD pipelines, self-hosted web apps, DNS management, reverse proxies  
 - **Privacy Engineering:** DNS filtering (NextDNS), secure messaging, end-to-end encryption, Tor/VPN, OSINT hardening, privacy-first deployments
+
 
 ## 🚀 Selected Projects
 - **Travel‑Privacy Toolkit** – Custom messenger, payment, and DNS scripts for the Philippines, South Korea, and Japan (blocked ≈ 28.7% of DNS queries; 29,912 blocked/104,125 total).
