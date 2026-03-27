@@ -19,8 +19,7 @@ CompTIA Security+ certified engineer specializing in secure network design and p
 - **Secure‑Comm Trainer** – Open-source slides and labs for teaching secure communications to non-technical staff.
 
 ## 📜 Certifications & Affiliations
-- CompTIA Security+ (2024)  
-- Cisco CCNA (2013)  
+- CompTIA Security+ (2024)    
 - OSINT Training (2021–2023)  
 - Digital‑privacy “Go Incognito” (2022) – 7‑module course on anonymity, VPN/Tor, encryption  
 - Electronic Frontier Foundation – Guardian Member & donor
