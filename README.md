@@ -13,7 +13,7 @@ CompTIA Security+ certified engineer specializing in secure network design and p
 
 
 ## 🚀 Selected Projects
-- **Travel‑Privacy Toolkit** – Custom messenger, payment, and DNS scripts for the Philippines, South Korea, and Japan (blocked ≈ 28.7% of DNS queries; 29,912 blocked/104,125 total).
+- **Travel‑Privacy Toolkit** – Custom messenger, payment, and DNS scripts for the Philippines, South Korea, and Japan (blocked ≈ 24.4% of DNS queries; 32,652 blocked/133,797 total).
 - **Twitter-style Mastodon Instance** – **jeju.social** – Invite-only, open-source server on a lightweight cloud platform; consistently under 20% CPU, minimal swap, and fast encrypted (TLS 1.3) connections, managed with Cloudron.
 - **Instagram-style Pixelfed Instance** – **shisa.me** – Invite-only, open-source server on a lightweight cloud platform; optimized for low resource usage and fast encrypted (TLS 1.3) connections, managed with Yunohost.
 - **Secure‑Comm Trainer** – Open-source slides and labs for teaching secure communications to non-technical staff.
