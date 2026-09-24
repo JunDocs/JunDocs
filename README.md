@@ -9,7 +9,7 @@ CompTIA Security+ certified engineer specializing in secure network design and p
 - **Penetration Testing:** PTES methodology, exploit development, threat modeling  
 - **Automation:** Scripting with PowerShell, Bash, and Python
 - **Cloud & DevOps:** Ubuntu 22.04, cloud VPS, Docker, CI/CD pipelines, self-hosted web apps, DNS management, reverse proxies  
-- **Privacy Engineering:** DNS filtering (NextDNS), secure messaging, end-to-end encryption, Tor/VPN, OSINT hardening, privacy-first deployments
+- **Privacy Engineering:** DNS filtering (Pi-Hole/NextDNS), secure messaging, end-to-end encryption, Tor/VPN, OSINT hardening, privacy-first deployments
 
 
 ## 🚀 Selected Projects
